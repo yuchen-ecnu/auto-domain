@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: fastjson-1.2.54.jar bcpkix-jdk15on-1.49.jar bcprov-jdk15on
+ -1.49.jar
+Main-Class: ui.MainForm
+
